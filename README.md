@@ -1,5 +1,4 @@
 ```text
-
                     _________________________________________________________________________
                    |      Hello, my name is Madeline (or Mads) Thomas [she/her]              |
                    |      I'm an aspiring data scientist (and former computational chemist)  |
