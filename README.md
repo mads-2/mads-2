@@ -1,16 +1,17 @@
-## Hi there 👋
+## hello!
 
-<!--
-**mads-2/mads-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                    _________________________________________________________________________
+                   |      Hello, my name is Madeline (or Mads) Thomas [she/her]              |
+                   |      I'm an aspiring data scientist (and former computational chemist)  |
+      ,-.,,-.      |      My passion is explaining complex things simply,                    |
+    ,'///||\\`.    |      turning scary technical jargon into digestable tidbits!            |
+   ///(((||)))\\.  |   ______________________________________________________________________|
+  (((  ◠    ◠ )))  |  /    
+  _)))   ^    |(_  |/                                And making it fun, of course!   |\_/|
+ ._//\  ◟    /\\_. `                                                                 (˚ᴥ˚) / 
+ `-/_/`-._.-'\-\-\                                                                   |`` 〵\
+ ./ ('/--''--\ (( \.                                                                 じしˍ,)/
+```
+                                            
