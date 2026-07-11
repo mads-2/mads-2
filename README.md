@@ -1,7 +1,7 @@
 ```text
                     _________________________________________________________________________
                    |      Hello, my name is Madeline (or Mads) Thomas [she/her]              |
-                   |      I'm an aspiring data scientist (and former computational chemist)  |
+                   |      I'm a creaive problem-solver (and former computational chemist)    |
       ,-.,,-.      |      My passion is explaining complex things simply,                    |
     ,'///||\\`.    |      turning scary technical jargon into digestable tidbits             |
    ///(((||)))\\.  |   ______________________________________________________________________|
